@@ -1,12 +1,12 @@
 ## 成果物リンク
 
-### [ver.01](github.com/IkutoYoshioka/ads_frontend)
+### [ver.01](https://github.com/IkutoYoshioka/ads_frontend)
 
-### [ver.02](github.com/IkutoYoshioka/20250711ads)
+### [ver.02](https://github.com/IkutoYoshioka/20250711ads)
 
-### [ver.03](github.com/IkutoYoshioka/ads1119)
+### [ver.03](https://github.com/IkutoYoshioka/ads1119)
 
-### [ver.04](github.com/IkutoYoshioka/ADS-HR-SYSTEM)
+### [ver.04](https://github.com/IkutoYoshioka/ADS-HR-SYSTEM)
 
 ver03,04にはdocsフォルダがあるので設計などはそれを参照。
 
